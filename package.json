@@ -1,0 +1,11 @@
+{
+  "name": "fcc-date",
+  "version": "1.0.0",
+  "description": "Quick JSON date converter",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Colin Hill",
+  "license": "ISC"
+}
